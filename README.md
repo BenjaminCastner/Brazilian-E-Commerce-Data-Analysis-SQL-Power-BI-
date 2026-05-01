@@ -1,6 +1,5 @@
 # Brazilian E-Commerce Data Analysis (SQL + Power BI)
-This project analyses a Brazilian e-commerce dataset to uncover insights into sales performance, customer behaviour, and delivery efficiency.
-
+This project analyses a Brazilian e-commerce dataset to uncover insights into sales performance, customer behaviour, and delivery efficiency using SQL and Power BI.
 The analysis was conducted using PostgreSQL for data preparation and Power BI for dashboard visualisation.
 
 ##OBJECTIVES
