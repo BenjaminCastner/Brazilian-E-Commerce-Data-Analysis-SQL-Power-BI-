@@ -21,6 +21,7 @@ The analysis was conducted using PostgreSQL for data preparation and Power BI fo
 - Delivery times are generally short, with a small number of longer delays.
 
 ##DASHBOARD PREVIEW
+- https://github.com/BenjaminCastner/Brazilian-E-Commerce-Data-Analysis-SQL-Power-BI-/blob/3d4fc98f912b72144ee306d3af6f09c28a284e29/Dashboard/dashboard.png
 
 ##DATA PREPARATION
 - Imported multiple CSV datasets into PostgreSQL
